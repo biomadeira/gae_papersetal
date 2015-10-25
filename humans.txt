@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# put in the head  <link rel="author" href="humans.txt" />
+
+/* TEAM */
+	Founder: Fábio Madeira
+	Contact: fabiomadeira [at] me.com
+	Twitter: @biomadeira
+	From:Portugal
+
+/* THANKS */
+	App hosting: Google App Engine
+    website: https://developers.google.com/appengine/
+
+/* SITE */
+	Last update: 2015/04/04
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3, JS, Python
+    Components: Webapp2, RequireJS, JQuery, Backbone, BootStrap
+    Software: Illustrator, Photoshop, Pixelmator, Github, Git
+    IDE: WebStorm, Sublime, Textmate
